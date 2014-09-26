@@ -1,0 +1,1 @@
+﻿data source=D:\\Kerja\\PersonalProject\\ProgramToko\\db; Version=3;
